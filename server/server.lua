@@ -64,7 +64,7 @@ AddEventHandler('loffe_fishing:buyEquipment', function(item, price, amount)
 		else
 			xPlayer.removeMoney(price)
 			xPlayer.addInventoryItem(item, amount)
-			TriggerClientEvent('loffe_fishing:notify', _source, 'Du köpte ' .. amount .. ' ' .. ESX.GetItemLabel(item) .. ' för ~g~$' .. price)
+			TriggerClientEvent('loffe_fishing:notify', _source, 'You bought ' .. amount .. ' ' .. ESX.GetItemLabel(item) .. ' för ~g~$' .. price)
 		end
 	else
 		TriggerClientEvent('loffe_fishing:notify', _source, _U('not_enough'))
