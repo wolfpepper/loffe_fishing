@@ -131,7 +131,7 @@ Citizen.CreateThread(function()
 									local randomWeight = math.random(5000, 14000)
 									TriggerServerEvent('loffe_fishing:caught')
 									caught = true
-									Notify(_U('you_caught') .. randomWeight/1000 .. ' kg', 2000)
+									Notify(_U('you_caught ') .. randomWeight/1000 .. ' kg', 2000)
 								end
 							end
 						end
