@@ -3,6 +3,5 @@ INSERT INTO `items` (name, label, `limit`) VALUES
 	('lrod', 'Fishing rod', 1),
 	('lbait', 'Fishing bait', -1),
 	('lUbait', 'Ultra Fishing Bait', -1),
-	('lEbait', 'Extreme Fishing Bait', -1),
-	
+	('lEbait', 'Extreme Fishing Bait', -1),	
 ;
