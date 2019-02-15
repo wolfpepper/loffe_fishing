@@ -1,0 +1,21 @@
+Locales ['en'] = {
+['got_away'] = 'A Fish Got Away',
+['you_caught'] = 'You caught a fish, it weighs',
+['no_equipment'] = 'You do not have enough accessories ..',
+['fishing_store'] = 'Fishing shops',
+['fishing_rod'] = 'Fishing rod [1500: -]',
+['fishing_bait'] = 'Fishbeat [5: -]',
+['ultra_bait'] = 'Ultra Fishing Bite [10: -]',
+['extreme_bait'] = 'Extremely fishing bait [15: -]',
+['fishing_blip'] = 'Fishing spot',
+['sell_fish_blip'] = 'Fishing Sale',
+['store_blip'] = 'Fishing shop',
+['open_store'] = '~ w ~ [~ g ~ E ~ w ~] Buy accessories',
+['sell_fish'] = '~ w ~ [~ g ~ E ~ w ~] Sell fish',
+['start'] = '~ w ~ [~ g ~ E ~ w ~] Start fishing',
+['not_enough'] = 'You dont have enough money!',
+['too_much'] = 'You cant keep that much!',
+['sold'] = 'You sold your fish for',
+['on_hook'] = '~ w ~ A fish snatched! Click [~ g ~ ENTER ~ w ~] to crank it in! ',
+
+}
